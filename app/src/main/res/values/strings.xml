@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">myGoogleMaps</string>
+    <string name="go_maps">Go to Maps</string>
+    <string name="go_camera">Go to Camera</string>
+</resources>
