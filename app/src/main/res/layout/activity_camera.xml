@@ -10,6 +10,6 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:onClick="useCamera"
-        android:text="FOTO"/>
+        android:text="FOTO2"/>
 
 </android.support.constraint.ConstraintLayout>
